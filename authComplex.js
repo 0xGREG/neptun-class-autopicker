@@ -1,4 +1,5 @@
 // tries to refresh token every 30 seconds, if the token is expired, tries to log you in again
+// basically keeps you logged in forever
 
 const authModule = require("./authModule")
 const authRefreshModule = require('./authRefreshModule')

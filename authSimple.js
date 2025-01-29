@@ -1,4 +1,4 @@
-// logs you in automatically
+// logs you in automatically without refreshing token
 
 const authModule = require("./authModule")
 

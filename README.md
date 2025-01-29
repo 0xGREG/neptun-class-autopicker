@@ -35,6 +35,8 @@ All these limitations are relatively easy to fix with a basic understanding of N
 - The code doesn't pick multiple courses for a subject if there is both lecture and seminar, only picks the first
 - The code doesn't check if the first course for the subject is full, only checks if the course will start
 
-## How does it work
+## Extras
 
-TBD
+All information regarding each js file is documented at the start of each.
+
+Alongside the subject picker, the repo includes a combined authentication and auth token refresher, a script to get all extracurriculars with lecture only and a script to get all courses you've picked.

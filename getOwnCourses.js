@@ -1,4 +1,4 @@
-// get all courses of the user for specific term ID
+// get all courses of the user for specific term ID that are already picked
 
 const fs = require("fs").promises
 

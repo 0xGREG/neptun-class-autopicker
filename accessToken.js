@@ -1,4 +1,4 @@
-// displays your current access token
+// displays your current access token after logging in
 
 const fs = require("fs").promises
 

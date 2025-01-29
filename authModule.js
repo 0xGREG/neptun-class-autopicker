@@ -1,4 +1,4 @@
-// automatically logs in user with the provided credentials
+// responsible oor authenticating the user and saving the session data
 
 const fs = require("fs").promises
 const twofactor = require("node-2fa")

@@ -1,4 +1,4 @@
-// logic to refresh existing auth token
+// logic to refresh an existing auth token and save the new one
 
 const fs = require("fs").promises
 

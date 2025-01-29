@@ -1,4 +1,4 @@
-// refreshes the auth token every 30 seconds
+// refreshes the auth token every 30 seconds, recommended to use authComplex.js instead
 
 const reauthModule = require('./authRefreshModule')
 
